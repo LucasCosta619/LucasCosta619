@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **3IT**
 
-- 📄 Know about my experiences [I am a developer who is always focused on giving his best to help everyone with my projects](I am a developer who is always focused on giving his best to help everyone with my projects)
+- 📄 Know about my experiences **I am a developer who is always focused on giving his best to help everyone with my projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
